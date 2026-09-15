@@ -10,9 +10,9 @@
 <br/>
 
 <a href="mailto:mbadarmaaz11@gmail.com"><img src="https://img.shields.io/badge/Email-mbadarmaaz11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-00C9A7?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<a href="www.linkedin.com/in/muhammad-badar-maaz-b96130273"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Badar392"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Location-Sargodha%2C%20Pakistan-00C9A7?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
@@ -136,18 +136,6 @@ CNN classifier trained on the MNIST dataset, deployed as a Streamlit app support
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Badar392&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Badar392&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<br/>
 
 ## 🎓 Education & Certifications
 
