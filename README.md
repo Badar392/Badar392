@@ -1,10 +1,3 @@
-<!--
-  BEFORE PUBLISHING — replace these placeholders:
-  1. "yourusername" in the GitHub Stats / Streak image URLs below with your actual GitHub username
-     (these widgets are generated live from your GitHub username, so they won't render without it).
-  2. The LinkedIn and GitHub badge links (currently "#") with your actual profile URLs.
-  3. Demo links marked "#" with your live project URLs, if available.
--->
 
 <div align="center">
 
@@ -29,7 +22,7 @@
 
 ```yaml
 role: Entry-Level AI/ML Engineer
-based_in: Lahore, Pakistan
+based_in: Sargodha, Pakistan
 focus: Machine Learning · Computer Vision · NLP · LLM-powered Applications
 certified: Microsoft Azure AI Fundamentals (AI-900)
 education: BS Computer Science, University of Sargodha — CGPA 3.61/4.00
@@ -146,8 +139,8 @@ CNN classifier trained on the MNIST dataset, deployed as a Streamlit app support
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Badar392&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Badar392&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
