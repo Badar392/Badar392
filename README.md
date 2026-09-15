@@ -81,7 +81,6 @@ looking_for: AI/ML Engineer roles & collaborative open-source projects
 **Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode" height="45"/>
-
 </div>
 
 <br/>
