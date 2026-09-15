@@ -171,8 +171,8 @@ CNN classifier trained on the MNIST dataset, deployed as a Streamlit app support
 <div align="center">
 
 <a href="mailto:mbadarmaaz11@gmail.com"><img src="https://img.shields.io/badge/Email-mbadarmaaz11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-View_my_repos-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-badar-maaz-b96130273"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Badar392"><img src="https://img.shields.io/badge/GitHub-View_my_repos-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
